@@ -8,8 +8,7 @@ namespace src
         {
             InitializeComponent();
 
-            // Initialize the WebView2 control on: https://devscafe.org/radio
-            webView.Source = new Uri("https://devscafe.org/radio");
+            webView.Source = new Uri("https://devscafe.org/radio/desktop");
 
             // Resize with the window
             webView.Dock = DockStyle.Fill;
