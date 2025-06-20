@@ -1,6 +1,3 @@
-### `README.md`
-
-````markdown
 # Devradio Desktop 🎧
 
 **Devradio Desktop** é a versão para computador do DevRadio, feita para desenvolvedores, programadores e entusiastas da tecnologia que gostam de ouvir música enquanto codam. Com uma interface minimalista e foco na produtividade, o Devradio Desktop permite escutar músicas selecionadas diretamente do seu desktop, sem distrações.
